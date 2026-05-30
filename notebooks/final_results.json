@@ -1,0 +1,12 @@
+{
+  "efficientnet_f1": 0.6688062926612545,
+  "xgboost_f1": 0.23908062383150536,
+  "ensemble_f1": 0.6757367632367632,
+  "baseline_f1": 0.738,
+  "delta_vs_baseline": -0.0623,
+  "ensemble_weights": {
+    "efficientnet": 0.5,
+    "xgboost": 0.4000000000000001,
+    "svm": 0.09999999999999992
+  }
+}

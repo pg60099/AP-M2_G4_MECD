@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "Biliary_Leaks",
+    "Lithiasis",
+    "Normal",
+    "Stricture"
+  ],
+  "weights": [
+    2.425,
+    0.5282178217821782,
+    1.3540609137055837,
+    1.046078431372549
+  ]
+}
